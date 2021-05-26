@@ -1,6 +1,6 @@
 # CSES Problem Set
 
-### What it is?
+### What is this?
 
 In this git repository, I have tried to 
 commit as many solutions of the CSES Problem set
